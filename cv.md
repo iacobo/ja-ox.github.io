@@ -1,11 +1,11 @@
 #### Work
 
 - Data Scientist  
-  Public Health England  
+  University of Oxford / PHE   
   2018-Present
-- Data Scientist, Microbiology  
-  University of Oxford  
-  2018-2020
+- ETL Developer  
+  Rosslyn Data Technologies  
+  2015-2017
 
 #### Education
 
@@ -15,3 +15,9 @@
 - BA, Maths  
   University of Oxford  
   2012-2015
+
+#### Awards
+
+- EPSRC Studentship (2019-2023)
+- Moritz-Heyman Scholarship (2012-2015)
+- All Ireland Scholarship (2012-2015)
