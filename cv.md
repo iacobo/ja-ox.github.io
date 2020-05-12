@@ -19,8 +19,8 @@
 #### Awards
 
 - [EPSRC Studentship](https://gtr.ukri.org/person/31C3C0CA-5A09-4F04-9EF1-1145340D8E59) - 2019
-- Moritz-Heyman Scholarship - 2012
 - [All Ireland Scholarship](https://www.allirelandscholarships.com/profile/jacob-armstrong/) - 2012
+- Moritz-Heyman Scholarship - 2012
 
 #### Groups
 
