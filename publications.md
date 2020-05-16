@@ -1,3 +1,7 @@
+#### [Publications](/publications)   [Projects](/projects)   [CV](/cv)
+
+---
+
 ### Dynamic linkage of COVID-19 test results between Public Health England's Second Generation Surveillance System and UK Biobank 
 
 Armstrong, J., Rudkin, J. K., Allen, N., Crook, D. W., Wilson, D. J., Wyllie, D. H. and A.-M. O'Connell (2020)  
