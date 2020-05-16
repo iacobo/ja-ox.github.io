@@ -1,3 +1,7 @@
+#### [Publications](/publications)   [Projects](/projects)   [CV](/cv)
+
+---
+
 #### Work
 
 - **Data Scientist**  
