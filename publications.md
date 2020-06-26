@@ -16,8 +16,8 @@ D. Ellinghaus et al ([Severe Covid-19 GWAS Group](https://www.nejm.org/doi/suppl
 #### Acknowledgements
 
 - [Statistical considerations in the design and analysis of non-inferiority trials with binary endpoints in the presence of non-adherence: a simulation study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7205408/)  
-*Wellcome open research*(2020)   
+*Wellcome open research* (2020)   
 Yin Mo, Cherry Lim, Mavuto Mukaka, and Ben S Cooper    
 - [Reply to Goeman et al.: Trade-offs in model averaging using multilevel tests](https://www.pnas.org/content/116/47/23384.full)  
-*PNAS*(2019)     
+*PNAS* (2019)     
 Daniel J. Wilson
