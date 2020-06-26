@@ -2,9 +2,18 @@
 
 ---
 
-### Dynamic linkage of COVID-19 test results between Public Health England's Second Generation Surveillance System and UK Biobank 
+#### Publications
 
-Armstrong, J., Rudkin, J. K., Allen, N., Crook, D. W., Wilson, D. J., Wyllie, D. H. and A.-M. O'Connell (2020)  
-*Microbial Genomics* doi:[10.1099/mgen.0.000397](https://doi.org/10.1099/mgen.0.000397) [preprint](https://doi.org/10.6084/m9.figshare.12091455)
+- [**Dynamic linkage of COVID-19 test results between Public Health England's Second Generation Surveillance System and UK Biobank**](https://doi.org/10.1099/mgen.0.000397) (2020) *Microbial Genomics*  
+J. Armstrong, J. K. Rudkin, N. Allen, D. W. Crook, D. J. Wilson, D. H. Wyllie, and A.-M. O'Connell   
+- [**Genomewide Association Study of Severe Covid-19 with Respiratory Failure**](https://pubmed.ncbi.nlm.nih.gov/32558485/) (2020) *New England Journal of Medicine*   
+D. Ellinghaus et al ([Severe Covid-19 GWAS Group](https://www.nejm.org/doi/suppl/10.1056/NEJMoa2020283/suppl_file/nejmoa2020283_appendix_1.pdf))    
 
->UK Biobank (UKB) is an international health resource enabling research into the genetic and lifestyle determinants of common diseases of middle and older age. It comprises 500 000 participants. Public Health England’s Second Generation Surveillance System is a centralized microbiology database covering English clinical diagnostics laboratories that provides national surveillance of legally notifiable infections, bacterial isolations and antimicrobial resistance. We previously developed secure, pseudonymized, individual-level linkage of these systems. In this study, we implemented rapid dynamic linkage, which allows us to provide a regular feed of new COVID-19 (SARS-CoV-2) test results to UKB to facilitate rapid and urgent research into the epidemiological and human genetic risk factors for severe infection in the cohort. Here, we have characterized the first 1352 cases of COVID-19 in UKB participants, of whom 895 met our working definition of severe COVID-19 as inpatients hospitalized on or after 16 March 2020. We found that the incidence of severe COVID-19 among UKB cases was 27.4 % lower than the general population in England, although this difference varied significantly by age and sex. The total number of UKB cases could be estimated as 0.6 % of the publicly announced number of cases in England. We considered how increasing case numbers will affect the power of genome-wide association studies. This new dynamic linkage system has further potential to facilitate the investigation of other infections and the prospective collection of microbiological cultures to create a microbiological biobank (bugbank) for studying the interaction of environment, human and microbial genetics on infection in the UKB cohort.
+---
+
+#### Acknowledgements
+
+- [Statistical considerations in the design and analysis of non-inferiority trials with binary endpoints in the presence of non-adherence: a simulation study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7205408/) (2020) *Wellcome open research*  
+Yin Mo, Cherry Lim, Mavuto Mukaka, and Ben S Cooper    
+- [Reply to Goeman et al.: Trade-offs in model averaging using multilevel tests](https://www.pnas.org/content/116/47/23384.full) (2019) *PNAS*    
+Daniel J. Wilson
