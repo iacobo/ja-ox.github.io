@@ -8,7 +8,7 @@
 *Microbial Genomics* (2020)   
 J. Armstrong, J. K. Rudkin, N. Allen, D. W. Crook, D. J. Wilson, D. H. Wyllie, and A.-M. O'Connell   
 - [**Genomewide Association Study of Severe Covid-19 with Respiratory Failure**](https://pubmed.ncbi.nlm.nih.gov/32558485/)  
-*New England Journal of Medicine*(2020)    
+*New England Journal of Medicine* (2020)    
 D. Ellinghaus et al ([Severe Covid-19 GWAS Group](https://www.nejm.org/doi/suppl/10.1056/NEJMoa2020283/suppl_file/nejmoa2020283_appendix_1.pdf))    
 
 ---
