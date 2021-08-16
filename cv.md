@@ -4,7 +4,7 @@
 
 #### Work
 
-- **Data Scientist in Public Health Epidemiology**
+- **Data Scientist in Public Health Epidemiology**  
   University of Oxford; Public Heath England   
   2021 - Present
 - [**Data Scientist in Microbiology**](https://data.ox.ac.uk/doc/vacancy/134850)  
