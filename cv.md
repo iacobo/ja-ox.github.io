@@ -13,7 +13,7 @@
 
 #### Education
 
-- **DPhil, Computer Science**  
+- **DPhil, Health Data Science**  
   University of Oxford  
   2019 - Present
 - **BA, Maths**  
@@ -30,3 +30,4 @@ Moritz-Heyman Scholarship - 2012
 
 [COVID-19 Host Genetics Initiative](https://www.covid19hg.org/)  
 [Wilson lab](http://www.danielwilson.me.uk/lab)  
+[CHI lab](https://eng.ox.ac.uk/chi/)
