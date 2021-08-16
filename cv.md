@@ -5,9 +5,11 @@
 #### Work
 
 - **Data Scientist in Public Health Epidemiology**
+  University of Oxford; Public Heath England   
+  2021 - Present
 - [**Data Scientist in Microbiology**](https://data.ox.ac.uk/doc/vacancy/134850)  
   University of Oxford; Public Heath England   
-  2018 - Present
+  2018 - 2021
 - **ETL Developer**  
   Rosslyn Data Technologies  
   2015 - 2017
