@@ -6,6 +6,6 @@
 [![Github](https://img.shields.io/badge/--181717?logo=github&logoColor=white)](https://github.com/iacobo) 
 [![LinkedIn](https://img.shields.io/badge/--0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-armstrong/)
 
-Hi, I'm Jacob, a Data Scientist and PhD student at Oxford University.
+Hi, I'm Jacob, a Data Scientist at Oxford University / the UK Health Security Agency.
 
-My background is in maths, but my work over the past few years has focused on infectious disease epidemiology, most recently the COVID-19 pandemic.
+My background is in maths, but my work over the past few years has focused on infectious disease epidemiology, most recently the COVID-19 pandemic. I am currently a DPhil candidate at Oxford University.
