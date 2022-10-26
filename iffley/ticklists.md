@@ -1,6 +1,7 @@
-<div align="center">
-    
-[Home](https://github.com/iacobo/iffley-wall-app/blob/main/README.md) | [All routes](iffley/topos.md) | [Tick Lists](iffley/ticklists.md) | [Circuits](iffley/circuits.md)
+
+| [Home](https://github.com/iacobo/iffley-wall-app/blob/main/README.md) | [All routes](iffley/topos.md) | [Tick Lists](iffley/ticklists.md) | [Circuits](iffley/circuits.md) |
+|---|---|---|---|
+
 
 <img src="https://github.com/iacobo/iffley-wall-app/blob/main/.assets/img/icon.svg?raw=true" width="100">
 
