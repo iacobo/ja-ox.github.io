@@ -1,6 +1,8 @@
 <div align="center">
+
     
 [Home](https://github.com/iacobo/iffley-wall-app/blob/main/README.md) | [All routes](iffley/topos.md) | [Tick Lists](iffley/ticklists.md) | [Circuits](iffley/circuits.md)
+
 
 <img src="https://github.com/iacobo/iffley-wall-app/blob/main/.assets/img/icon.svg?raw=true" width="100">
 
@@ -33,6 +35,7 @@
 - [The Black (dyno) Circuit](#the-black-(dyno)-circuit)
 - [The Crushed Strawberry Circuit](#the-crushed-strawberry-circuit)
 - [The White Circuit](#the-white-circuit)
+
 ### The Welcome Circuit
 
 | Name                          | Topo                                                                                                                                          |
@@ -58,6 +61,7 @@
 | Praying Mantis  | ![Praying Mantis](https://github.com/iacobo/iffley-wall-app/blob/main/.assets/img/routes/prayingmantis.png?raw=true)  |
 | Jack-In-The-Box | ![Jack-In-The-Box](https://github.com/iacobo/iffley-wall-app/blob/main/.assets/img/routes/jackinthebox.png?raw=true)  |
 | The Sting       | ![The Sting](https://github.com/iacobo/iffley-wall-app/blob/main/.assets/img/routes/thesting.png?raw=true)            |
+
 ### The Green Circuit
 
 | Name                     | Topo                                                                                                                                   |
@@ -74,26 +78,32 @@
 | Buzz foes the Honey Bee  | ![Buzz foes the Honey Bee](https://github.com/iacobo/iffley-wall-app/blob/main/.assets/img/routes/buzzfoesthehoneybee.png?raw=true)    |
 | Magic Journey            | ![Magic Journey](https://github.com/iacobo/iffley-wall-app/blob/main/.assets/img/routes/magicjourney.png?raw=true)                     |
 | Ice Cream Man            | ![Ice Cream Man](https://github.com/iacobo/iffley-wall-app/blob/main/.assets/img/routes/icecreamman.png?raw=true)                      |
+
 ### The Kids White Circuit
 
 | Name   | Topo   |
 |--------|--------|
+
 ### The Teal Circuit
 
 | Name   | Topo   |
 |--------|--------|
+
 ### The Yellow Circuit
 
 | Name   | Topo   |
 |--------|--------|
+
 ### The Pink Circuit
 
 | Name   | Topo   |
 |--------|--------|
+
 ### The Blue Circuit
 
 | Name   | Topo   |
 |--------|--------|
+
 ### The Sky Blue Circuit
 
 | Name                 | Topo                                                                                                                          |
@@ -105,18 +115,22 @@
 | Startime             | ![Startime](https://github.com/iacobo/iffley-wall-app/blob/main/.assets/img/routes/startime.png?raw=true)                     |
 | Foundations of Funk  | ![Foundations of Funk](https://github.com/iacobo/iffley-wall-app/blob/main/.assets/img/routes/foundationsoffunk.png?raw=true) |
 | Too Funky in Here    | ![Too Funky in Here](https://github.com/iacobo/iffley-wall-app/blob/main/.assets/img/routes/toofunkyinhere.png?raw=true)      |
+
 ### The Red Circuit
 
 | Name   | Topo   |
 |--------|--------|
+
 ### The Black (dyno) Circuit
 
 | Name   | Topo   |
 |--------|--------|
+
 ### The Crushed Strawberry Circuit
 
 | Name   | Topo   |
 |--------|--------|
+
 ### The White Circuit
 
 | Name   | Topo   |
