@@ -1,8 +1,8 @@
 <div align="center">
     
-[Home](../README.md) | [All routes](topos.md) | [Tick Lists](ticklists.md) | [Circuits](circuits.md)
+[Home](https://github.com/iacobo/iffley-wall-app/blob/main/README.md) | [All routes](iffley/topos.md) | [Tick Lists](iffley/ticklists.md) | [Circuits](iffley/circuits.md)
 
-<img src="../.assets/img/icon.svg" width="100">
+<img src="https://github.com/iacobo/iffley-wall-app/blob/main/.assets/img/icon.svg?raw=true" width="100">
 
 ## Iffley Tick Lists
 
