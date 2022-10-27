@@ -7,17 +7,11 @@
 
 ## Iffley Tick Lists
 
-
-</div>
-
 ### Key
 
 - 🟨 <span style="color:yellow">Yellow</span>: standing start holds
 - 🟩 <span style="color:lime">Green</span>: general holds in the route
 - 🟥 <span style="color:red">Red</span>: final hold
-
-
-
 
 ### Index
 
