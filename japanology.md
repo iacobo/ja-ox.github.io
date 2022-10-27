@@ -1,5 +1,1433 @@
 <h1 id="japanology-episodes">Japanology Episodes</h1>
-
+<ul>
+<li><a href="weekend_japanology">Weekend Japanology</a></li>
+<li><a href="begin_japanology">Begin Japanology</a></li>
+<li><a href="japanology_plus">Japanology Plus</a></li>
+</ul>
+<h2 id="weekend-japanology">Weekend Japanology</h2>
+<table>
+<thead>
+<tr>
+<th>series</th>
+<th>season</th>
+<th>Episode</th>
+<th>Name</th>
+<th>Air Date</th>
+<th>vid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>1</td>
+<td>Cherry Blossoms</td>
+<td>April 6, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/zboO2yaziho">https://www.youtube.com/embed/zboO2yaziho</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>2</td>
+<td>Sumo</td>
+<td>April 13, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/EcUiZxVKhWA">https://www.youtube.com/embed/EcUiZxVKhWA</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>3</td>
+<td>Japanese emotional expression</td>
+<td>April 20, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/CAYksO0tkt8">https://www.youtube.com/embed/CAYksO0tkt8</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>4</td>
+<td>The power of design</td>
+<td>April 27, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/kHyx5qjZEN4">https://www.youtube.com/embed/kHyx5qjZEN4</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>5</td>
+<td>Japanese Food: Nattō</td>
+<td>May 4, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Y8gXfVnYY2g">https://www.youtube.com/embed/Y8gXfVnYY2g</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>6</td>
+<td>Robot design</td>
+<td>May 11, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/SM5RJqEBdcM">https://www.youtube.com/embed/SM5RJqEBdcM</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>7</td>
+<td>Comedy</td>
+<td>May 18, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/af2TE3IxEh4">https://www.youtube.com/embed/af2TE3IxEh4</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>8</td>
+<td>Diet for a long life</td>
+<td>May 25, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/OzNcoENNsxQ">https://www.youtube.com/embed/OzNcoENNsxQ</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>9</td>
+<td>Contemporary dance</td>
+<td>June 1, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/MKWmmrvn-YI">https://www.youtube.com/embed/MKWmmrvn-YI</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>10</td>
+<td>Kimono</td>
+<td>June 8, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/rm0tpnQ2U-8">https://www.youtube.com/embed/rm0tpnQ2U-8</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>11</td>
+<td>&quot;Koto&quot; and its charm</td>
+<td>June 15, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/3K6KpkFXKdM">https://www.youtube.com/embed/3K6KpkFXKdM</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>12</td>
+<td>Traditional Japanese Houses</td>
+<td>June 22, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/uoFbMXZ02pI">https://www.youtube.com/embed/uoFbMXZ02pI</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>13</td>
+<td>Fireworks</td>
+<td>July 13, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/TO3-oX5Z73Q">https://www.youtube.com/embed/TO3-oX5Z73Q</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>14</td>
+<td>Japanese Paper</td>
+<td>July 20, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/DsCP-TKQY1g">https://www.youtube.com/embed/DsCP-TKQY1g</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>15</td>
+<td>&quot;Yacht Race Around the World&quot;</td>
+<td>July 27, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/CUYEjJ8pHGk">https://www.youtube.com/embed/CUYEjJ8pHGk</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>16</td>
+<td>Memories of the Atomic Bomb</td>
+<td>August 3, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/-07xiaBl2vk">https://www.youtube.com/embed/-07xiaBl2vk</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>17</td>
+<td>Wedding</td>
+<td>August 18, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/1jwZFFBupnU">https://www.youtube.com/embed/1jwZFFBupnU</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>18</td>
+<td>Summer Feature Special! Out and About</td>
+<td>August 24, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/_1KXIPOOxGo">https://www.youtube.com/embed/_1KXIPOOxGo</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>19</td>
+<td>Let&#39;s Drink Japanese Tea!</td>
+<td>September 7, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/xf20a9UmEMA">https://www.youtube.com/embed/xf20a9UmEMA</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>20</td>
+<td>Forefront of Universal Design</td>
+<td>September 14, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/77FuigGSn44">https://www.youtube.com/embed/77FuigGSn44</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>21</td>
+<td>Inheritance: Japanese Songs</td>
+<td>September 21, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/2s5ZgIoEkfg">https://www.youtube.com/embed/2s5ZgIoEkfg</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>22</td>
+<td>Changing Japanese Women</td>
+<td>September 28, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/MKoounOcfOg">https://www.youtube.com/embed/MKoounOcfOg</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>23</td>
+<td>Exploring Tokyo with a Special Guide</td>
+<td>October 6, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/dJxemGmbOwg">https://www.youtube.com/embed/dJxemGmbOwg</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>24</td>
+<td>Japan in Contemporary Art</td>
+<td>October 12, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/hnX_S2KZBiE">https://www.youtube.com/embed/hnX_S2KZBiE</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>25</td>
+<td>Haiku</td>
+<td>October 19, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/JAFWlSM7xjg">https://www.youtube.com/embed/JAFWlSM7xjg</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>26</td>
+<td>Invitation to Noh</td>
+<td>October 26, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/wmFMQFoo0cY">https://www.youtube.com/embed/wmFMQFoo0cY</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>27</td>
+<td>Calligraphy: A Soul That Interacts with Words</td>
+<td>November 2, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/6JOUof0F0ns">https://www.youtube.com/embed/6JOUof0F0ns</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>28</td>
+<td>Seasonal Food</td>
+<td>November 9, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/os-5mnbsvgA">https://www.youtube.com/embed/os-5mnbsvgA</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>28</td>
+<td>Challenging the World with Entertainment Movies</td>
+<td>November 16, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/wvQ8ZEI-6ug">https://www.youtube.com/embed/wvQ8ZEI-6ug</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>30</td>
+<td>Folk Songs Seen by a Jazzman</td>
+<td>November 23, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/K_O4BrwHWH4">https://www.youtube.com/embed/K_O4BrwHWH4</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>31</td>
+<td>Japanese Car Design</td>
+<td>November 30, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/spNp2D3fjEU">https://www.youtube.com/embed/spNp2D3fjEU</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>32</td>
+<td>Japanese People and Earthquakes</td>
+<td>December 7, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/_3X3AX7xVvM">https://www.youtube.com/embed/_3X3AX7xVvM</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>33</td>
+<td>Loss of Japan - Nippon Deciphered from Pop Culture</td>
+<td>December 14, 2003</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/BGmOQMjIq9g">https://www.youtube.com/embed/BGmOQMjIq9g</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>34</td>
+<td>The Ancient City</td>
+<td>January 11, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/dq5sLMVJeyg">https://www.youtube.com/embed/dq5sLMVJeyg</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>35</td>
+<td>Zen</td>
+<td>January 18, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/nCc8kSQqyXU">https://www.youtube.com/embed/nCc8kSQqyXU</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>36</td>
+<td>Shinkansen</td>
+<td>January 25, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/trDFx11PRHI">https://www.youtube.com/embed/trDFx11PRHI</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>37</td>
+<td>Makeup: Japan</td>
+<td>February 1, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/3jsRehM5GDY">https://www.youtube.com/embed/3jsRehM5GDY</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>38</td>
+<td>Japanese Animation</td>
+<td>February 8, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/0uUF8k857wU">https://www.youtube.com/embed/0uUF8k857wU</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>39</td>
+<td>Classical Japanese Music</td>
+<td>February 15, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/2s5ZgIoEkfg">https://www.youtube.com/embed/2s5ZgIoEkfg</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>40</td>
+<td>Yakimono</td>
+<td>February 22, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/gcyb1AYb984">https://www.youtube.com/embed/gcyb1AYb984</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>41</td>
+<td>Pearls</td>
+<td>February 29, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/ZiM1RMrckIc">https://www.youtube.com/embed/ZiM1RMrckIc</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>42</td>
+<td>Will Keitai Brighten the Future?</td>
+<td>March 7, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/CAYksO0tkt8">https://www.youtube.com/embed/CAYksO0tkt8</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>43</td>
+<td>The World of Japanese Painting Drawn by Senju</td>
+<td>March 14, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/-00nEbj1FFo">https://www.youtube.com/embed/-00nEbj1FFo</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>44</td>
+<td>Out &amp; About—Best Of Selection (Part 1)</td>
+<td>March 21, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/CAYksO0tkt8">https://www.youtube.com/embed/CAYksO0tkt8</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>45</td>
+<td>Out &amp; About—Best Of Selection (Part 2)</td>
+<td>March 28, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/mav1fS8H31g">https://www.youtube.com/embed/mav1fS8H31g</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>46</td>
+<td>Shakuhachi</td>
+<td>April 4, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/2BD8NoN4zI4">https://www.youtube.com/embed/2BD8NoN4zI4</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>47</td>
+<td>Contemporary Architecture</td>
+<td>April 11, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/dOA2Lx17KwM">https://www.youtube.com/embed/dOA2Lx17KwM</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>48</td>
+<td>Welcome to the World of Manga</td>
+<td>April 18, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/OnU8T_0hbi4">https://www.youtube.com/embed/OnU8T_0hbi4</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>49</td>
+<td>Japanese Pop Music</td>
+<td>April 26, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/QiZRZkfXCDI">https://www.youtube.com/embed/QiZRZkfXCDI</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>50</td>
+<td>Japanese Dogs</td>
+<td>May 2, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/0aNtSRN8u00">https://www.youtube.com/embed/0aNtSRN8u00</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>51</td>
+<td>Sushi Culture Magazine</td>
+<td>May 9, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/itnsF7cJjGM">https://www.youtube.com/embed/itnsF7cJjGM</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>52</td>
+<td>Rakugo</td>
+<td>May 17, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/DEXqmAJwTAk">https://www.youtube.com/embed/DEXqmAJwTAk</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>53</td>
+<td>Sounds of Japan</td>
+<td>May 23, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/QmEk97i5Gy0">https://www.youtube.com/embed/QmEk97i5Gy0</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>54</td>
+<td>Airplanes</td>
+<td>May 31, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/3ttAckYqP8M">https://www.youtube.com/embed/3ttAckYqP8M</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>55</td>
+<td>Learning from Edo: Recycling</td>
+<td>June 6, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/rzHeDleJBkw">https://www.youtube.com/embed/rzHeDleJBkw</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>56</td>
+<td>Japanese Garden</td>
+<td>June 13, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/mQxKgc5qDvE">https://www.youtube.com/embed/mQxKgc5qDvE</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>57</td>
+<td>Japanese Confectionery</td>
+<td>June 27, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/aTzvwbtkAyQ">https://www.youtube.com/embed/aTzvwbtkAyQ</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>58</td>
+<td>Shugendo and Faith</td>
+<td>July 4, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/wKo0tTc_3fE">https://www.youtube.com/embed/wKo0tTc_3fE</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>59</td>
+<td>Japanese Ships</td>
+<td>July 11, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/W8c7s9b4vM0">https://www.youtube.com/embed/W8c7s9b4vM0</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>60</td>
+<td>Fashion</td>
+<td>July 18, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/jZhcxuFkHGA">https://www.youtube.com/embed/jZhcxuFkHGA</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>61</td>
+<td>The Japanese Face</td>
+<td>July 25, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/1Jq9cws_zL0">https://www.youtube.com/embed/1Jq9cws_zL0</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>62</td>
+<td>Kagura</td>
+<td>August 1, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/dMpDLxSlkwc">https://www.youtube.com/embed/dMpDLxSlkwc</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>63</td>
+<td>Vending Machines</td>
+<td>August 8, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/jcmy8FaaHHM">https://www.youtube.com/embed/jcmy8FaaHHM</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>64</td>
+<td>Japanese Tableware</td>
+<td>September 5, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/s3vZV2qbgEk">https://www.youtube.com/embed/s3vZV2qbgEk</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>65</td>
+<td>80 Years of Life</td>
+<td>September 12, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/WFhsSW2A608">https://www.youtube.com/embed/WFhsSW2A608</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>66</td>
+<td>Japanese Jazz</td>
+<td>September 19, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/e-xY_lMQTQ8">https://www.youtube.com/embed/e-xY_lMQTQ8</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>67</td>
+<td>Tokyo Tourism - Yanaka Neighborhood</td>
+<td>October 3, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/-17hRPM1uQY">https://www.youtube.com/embed/-17hRPM1uQY</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>68</td>
+<td>Bushido</td>
+<td>October 10, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/mJuVUnouo6E">https://www.youtube.com/embed/mJuVUnouo6E</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>69</td>
+<td>Changing Akihabara</td>
+<td>October 17, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/RYbamAys0ps">https://www.youtube.com/embed/RYbamAys0ps</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>70</td>
+<td>Golf in Japan</td>
+<td>October 24, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/h6VSi3X1_o8">https://www.youtube.com/embed/h6VSi3X1_o8</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>1</td>
+<td>71</td>
+<td>Bonsai</td>
+<td>October 31, 2004</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/v1wPXZPSAFw">https://www.youtube.com/embed/v1wPXZPSAFw</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>1</td>
+<td>Japanese Rock</td>
+<td>May 7, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/NVB4SSNw0gY">https://www.youtube.com/embed/NVB4SSNw0gY</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>2</td>
+<td>Sho</td>
+<td>May 21, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/77FuigGSn44">https://www.youtube.com/embed/77FuigGSn44</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>3</td>
+<td>Japanese and Mathematics</td>
+<td>June 11, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/pln40k04Z0A">https://www.youtube.com/embed/pln40k04Z0A</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>4</td>
+<td>Ramen</td>
+<td>June 25, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/PLpgwmBSlho">https://www.youtube.com/embed/PLpgwmBSlho</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>5</td>
+<td>Sentō</td>
+<td>July 23, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/MlijOrSY374">https://www.youtube.com/embed/MlijOrSY374</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>6</td>
+<td>Origami</td>
+<td>July 30, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/_miBryqvrI8">https://www.youtube.com/embed/_miBryqvrI8</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>7</td>
+<td>Exploring Nagoya</td>
+<td>August 6, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/lAG0nRJ6N8A">https://www.youtube.com/embed/lAG0nRJ6N8A</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>8</td>
+<td>Robot</td>
+<td>September 17, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/SM5RJqEBdcM">https://www.youtube.com/embed/SM5RJqEBdcM</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>9</td>
+<td>Edokomon</td>
+<td>September 24, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/ivHVRsVOnu4">https://www.youtube.com/embed/ivHVRsVOnu4</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>10</td>
+<td>Young Entrepreneurs in Japan</td>
+<td>October 8, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/zxAxseNIRzw">https://www.youtube.com/embed/zxAxseNIRzw</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>11</td>
+<td>J-Pop</td>
+<td>October 15, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/QiZRZkfXCDI">https://www.youtube.com/embed/QiZRZkfXCDI</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>12</td>
+<td>Baby Boomers&#39; Consumer Activities</td>
+<td>October 29, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/PxWE_K2YCvI">https://www.youtube.com/embed/PxWE_K2YCvI</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>13</td>
+<td>Eco Cars</td>
+<td>November 12, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/ZtPZ-EyAyWY">https://www.youtube.com/embed/ZtPZ-EyAyWY</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>14</td>
+<td>Japanese Lights</td>
+<td>December 11, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/dVwrN1U3GFE">https://www.youtube.com/embed/dVwrN1U3GFE</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>15</td>
+<td>Japanese People and the Stars</td>
+<td>November 26, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/NDPVwmPCNZ0">https://www.youtube.com/embed/NDPVwmPCNZ0</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>16</td>
+<td>Yokohama Triennale 2005</td>
+<td>December 3, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/95igwkvlEtk">https://www.youtube.com/embed/95igwkvlEtk</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>17</td>
+<td>Mottainai!</td>
+<td>December 17, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/vzmTHA8on5w">https://www.youtube.com/embed/vzmTHA8on5w</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>18</td>
+<td>Soba</td>
+<td>December 24, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/screCVQbKKw">https://www.youtube.com/embed/screCVQbKKw</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>19</td>
+<td>Japanese People and Hot Springs</td>
+<td>December 31, 2005</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/OTLoC_dH_i8">https://www.youtube.com/embed/OTLoC_dH_i8</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>20</td>
+<td>J League</td>
+<td>January 7, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/eDgyNCHQ1Qk">https://www.youtube.com/embed/eDgyNCHQ1Qk</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>21</td>
+<td>Taiko - Japanese Drums</td>
+<td>January 14, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/X1m2zmaK8tw">https://www.youtube.com/embed/X1m2zmaK8tw</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>22</td>
+<td>Washi: Wrapping Technique and Spirit</td>
+<td>January 21, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/RZccAwh7buQ">https://www.youtube.com/embed/RZccAwh7buQ</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>23</td>
+<td>Japanese People and Monkeys</td>
+<td>January 28, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/I-0C6T3d8Sc">https://www.youtube.com/embed/I-0C6T3d8Sc</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>24</td>
+<td>Small Houses</td>
+<td>February 4, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/GugNoVWSdXY">https://www.youtube.com/embed/GugNoVWSdXY</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>25</td>
+<td>Soy Sauce</td>
+<td>February 11, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/jnSerDuCIa0">https://www.youtube.com/embed/jnSerDuCIa0</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>26</td>
+<td>Ukiyo-e</td>
+<td>February 18, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Ah6mUgAATvs">https://www.youtube.com/embed/Ah6mUgAATvs</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>27</td>
+<td>Japanese People and Fish</td>
+<td>February 25, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/jml4L4TVRwE">https://www.youtube.com/embed/jml4L4TVRwE</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>28</td>
+<td>Japan Fashion Week</td>
+<td>March 4, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/0o-xq5eg5Ck">https://www.youtube.com/embed/0o-xq5eg5Ck</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>29</td>
+<td>Cool Japan: Japanese Pop Culture</td>
+<td>March 11, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/CQfWP96bIV4">https://www.youtube.com/embed/CQfWP96bIV4</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>30</td>
+<td>Hay Fever</td>
+<td>March 18, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Bq57rG87LVU">https://www.youtube.com/embed/Bq57rG87LVU</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>31</td>
+<td>Out &amp; About — Best Of Selection (Part 1)</td>
+<td>March 25, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/CAYksO0tkt8">https://www.youtube.com/embed/CAYksO0tkt8</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>32</td>
+<td>Out &amp; About — Best OF Selection (Part 2)</td>
+<td>April 1, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/mav1fS8H31g">https://www.youtube.com/embed/mav1fS8H31g</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>33</td>
+<td>Sake</td>
+<td>April 17, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/QLkuLKAdGJQ">https://www.youtube.com/embed/QLkuLKAdGJQ</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>34</td>
+<td>Japanese Language</td>
+<td>April 24, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/rPI4qLWK5mY">https://www.youtube.com/embed/rPI4qLWK5mY</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>35</td>
+<td>Buyō</td>
+<td>May 1, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/UGzlKH2ZIaY">https://www.youtube.com/embed/UGzlKH2ZIaY</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>36</td>
+<td>Kyoto Cityscape Preservation</td>
+<td>May 15, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/5UEEz111uIM">https://www.youtube.com/embed/5UEEz111uIM</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>37</td>
+<td>Japanese Castles</td>
+<td>May 22, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/iPhdBe3fCsA">https://www.youtube.com/embed/iPhdBe3fCsA</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>38</td>
+<td>Japanese Garden Plants</td>
+<td>May 29, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/mQxKgc5qDvE">https://www.youtube.com/embed/mQxKgc5qDvE</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>39</td>
+<td>Mt. Fuji</td>
+<td>June 5, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/SUO7QhYUK5o">https://www.youtube.com/embed/SUO7QhYUK5o</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>40</td>
+<td>The World of Tsuguharu Foujita</td>
+<td>June 12, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/W4z3Z-mKHYg">https://www.youtube.com/embed/W4z3Z-mKHYg</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>41</td>
+<td>Buddha Statues</td>
+<td>June 19, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/dq5sLMVJeyg">https://www.youtube.com/embed/dq5sLMVJeyg</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>42</td>
+<td>Ikebana</td>
+<td>July 3, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/BFInml7rOPM">https://www.youtube.com/embed/BFInml7rOPM</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>43</td>
+<td>Japanese Travel Culture</td>
+<td>July 10, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Yiv5O5dca6g">https://www.youtube.com/embed/Yiv5O5dca6g</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>44</td>
+<td>Japan in Advertisements</td>
+<td>July 17, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/QbcJxslVFK8">https://www.youtube.com/embed/QbcJxslVFK8</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>45</td>
+<td>Home Appliances</td>
+<td>July 24, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Xn2CfKMrL-Y">https://www.youtube.com/embed/Xn2CfKMrL-Y</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>46</td>
+<td>Tatami</td>
+<td>July 31, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/e839VGOpl-A">https://www.youtube.com/embed/e839VGOpl-A</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>47</td>
+<td>Asakusa</td>
+<td>August 21, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Up5jKSreGrA">https://www.youtube.com/embed/Up5jKSreGrA</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>48</td>
+<td>Kamakura</td>
+<td>August 27, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/puAPXvRkE4s">https://www.youtube.com/embed/puAPXvRkE4s</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>49</td>
+<td>Udon</td>
+<td>August 28, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/IGavtBvMtVs">https://www.youtube.com/embed/IGavtBvMtVs</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>50</td>
+<td>Japanese Rivers</td>
+<td>September 4, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/_rwxsjzjDhs">https://www.youtube.com/embed/_rwxsjzjDhs</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>51</td>
+<td>Zazen Breathing Method</td>
+<td>September 11, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/LL2XUTeoUsM">https://www.youtube.com/embed/LL2XUTeoUsM</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>52</td>
+<td>Incense</td>
+<td>Culture September 25, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/PLZDsN35D_I">https://www.youtube.com/embed/PLZDsN35D_I</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>53</td>
+<td>Science Education in Japan</td>
+<td>October 2, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/cRYuOnfgq6Q">https://www.youtube.com/embed/cRYuOnfgq6Q</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>54</td>
+<td>Umeboshi</td>
+<td>October 9, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/tjv1vzmcWkU">https://www.youtube.com/embed/tjv1vzmcWkU</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>55</td>
+<td>Jōmon people</td>
+<td>October 16, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/1d2jmfid1ZM">https://www.youtube.com/embed/1d2jmfid1ZM</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>56</td>
+<td>Minakata Kumagusu</td>
+<td>October 22, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/DfCx3b2rImo">https://www.youtube.com/embed/DfCx3b2rImo</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>57</td>
+<td>Koizumi Yakumo and Japanese Kokoro</td>
+<td>October 23, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/e4WfTwsE2do">https://www.youtube.com/embed/e4WfTwsE2do</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>58</td>
+<td>Okami-san</td>
+<td>October 30, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/LydNSU5nJ_A">https://www.youtube.com/embed/LydNSU5nJ_A</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>59</td>
+<td>Small Theater Plays</td>
+<td>November 20, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Vhb-pQpYamA">https://www.youtube.com/embed/Vhb-pQpYamA</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>60</td>
+<td>Tempura</td>
+<td>November 27, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/vulmWj8rPbY">https://www.youtube.com/embed/vulmWj8rPbY</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>61</td>
+<td>Rice Cultivation</td>
+<td>December 18, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Qlz28wADHK8">https://www.youtube.com/embed/Qlz28wADHK8</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>62</td>
+<td>Itō Jakuchū and Edo Paintings</td>
+<td>December 25, 2006</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/rV7nXBZPo0s">https://www.youtube.com/embed/rV7nXBZPo0s</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>63</td>
+<td>Kyōgen</td>
+<td>January 8, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/RogQGMk0Wnk">https://www.youtube.com/embed/RogQGMk0Wnk</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>64</td>
+<td>Winter in Japan</td>
+<td>January 15, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/D-ht10QwPhA">https://www.youtube.com/embed/D-ht10QwPhA</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>65</td>
+<td>Nishikigoi - Koi Carp</td>
+<td>January 22, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/qG8rZHVIPdM">https://www.youtube.com/embed/qG8rZHVIPdM</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>66</td>
+<td>Convenience Stores</td>
+<td>January 29, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/9p8DVJToQEk">https://www.youtube.com/embed/9p8DVJToQEk</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>67</td>
+<td>Nabemono</td>
+<td>February 5, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/7F_-wEN7f6U">https://www.youtube.com/embed/7F_-wEN7f6U</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>68</td>
+<td>Snow in Japan</td>
+<td>February 12, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/uspglBjjGjI">https://www.youtube.com/embed/uspglBjjGjI</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>69</td>
+<td>Fishing</td>
+<td>February 19, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/r2YWNB2tkbQ">https://www.youtube.com/embed/r2YWNB2tkbQ</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>70</td>
+<td>Dashi</td>
+<td>February 26, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/YnvtqoHlXnI">https://www.youtube.com/embed/YnvtqoHlXnI</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>71</td>
+<td>Manzai</td>
+<td>March 5, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/jYHSoHejZQc">https://www.youtube.com/embed/jYHSoHejZQc</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>72</td>
+<td>Shamisen</td>
+<td>March 12, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/MfQwcimmfnY">https://www.youtube.com/embed/MfQwcimmfnY</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>73</td>
+<td>Japanese Wine</td>
+<td>March 19, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/ZL-fkF7s7LY">https://www.youtube.com/embed/ZL-fkF7s7LY</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>74</td>
+<td>Migratory Birds and Japan</td>
+<td>March 26, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Yiv5O5dca6g">https://www.youtube.com/embed/Yiv5O5dca6g</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>75</td>
+<td>Japanese Patterns</td>
+<td>April 2, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/IWBnt7CiHDo">https://www.youtube.com/embed/IWBnt7CiHDo</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>76</td>
+<td>Island Country Japan</td>
+<td>April 16, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/pKYHu8TtR0A">https://www.youtube.com/embed/pKYHu8TtR0A</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>77</td>
+<td>Laughter in Japan</td>
+<td>April 30, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/NlF5srREfbk">https://www.youtube.com/embed/NlF5srREfbk</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>78</td>
+<td>Kendo</td>
+<td>May 7, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/8Ea2ih7uNW4">https://www.youtube.com/embed/8Ea2ih7uNW4</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>79</td>
+<td>The Charm of Japanese Lacquerware</td>
+<td>May 14, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/8MFye9fiGp0">https://www.youtube.com/embed/8MFye9fiGp0</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>80</td>
+<td>The Turning Point for Japanese-style Employment</td>
+<td>May 21, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/YQ8KuYNDYm4">https://www.youtube.com/embed/YQ8KuYNDYm4</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>81</td>
+<td>Shōchū</td>
+<td>May 28, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/77FuigGSn44">https://www.youtube.com/embed/77FuigGSn44</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>82</td>
+<td>Shōgi</td>
+<td>June 4, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/c6GseJfUG4I">https://www.youtube.com/embed/c6GseJfUG4I</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>83</td>
+<td>Tanka</td>
+<td>June 11, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/iFIyCMCbLYA">https://www.youtube.com/embed/iFIyCMCbLYA</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>84</td>
+<td>Forest Regeneration</td>
+<td>June 18, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/3VZSJKbzyMc">https://www.youtube.com/embed/3VZSJKbzyMc</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>85</td>
+<td>Tofu</td>
+<td>June 25, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/sEfnMqqW7oc">https://www.youtube.com/embed/sEfnMqqW7oc</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>86</td>
+<td>Osaka Traditional Performing Art: Bunraku</td>
+<td>July 2, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/NFojZrytlgU">https://www.youtube.com/embed/NFojZrytlgU</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>87</td>
+<td>The Heart of Osaka/The Heart of Beauty</td>
+<td>June 16, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/CAYksO0tkt8">https://www.youtube.com/embed/CAYksO0tkt8</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>88</td>
+<td>Shikoku Pilgrimage</td>
+<td>July 23, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/r6dfNK3228A">https://www.youtube.com/embed/r6dfNK3228A</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>89</td>
+<td>High-tech Japanese Ancient Technology</td>
+<td>August 27, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/-YTM2-wuvZs">https://www.youtube.com/embed/-YTM2-wuvZs</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>90</td>
+<td>Ekiben</td>
+<td>September 3, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/U63lGAhzpdM">https://www.youtube.com/embed/U63lGAhzpdM</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>91</td>
+<td>Disaster Prevention: Wisdom to Live in an Earthquake-prone Country</td>
+<td>September 10, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Q2AfkYQe0RY">https://www.youtube.com/embed/Q2AfkYQe0RY</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>92</td>
+<td>Dolls</td>
+<td>September 17, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/fxanIDYyUVM">https://www.youtube.com/embed/fxanIDYyUVM</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>93</td>
+<td>Kimono Beauty and Technique</td>
+<td>September 24, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/GKgpvd__Bxs">https://www.youtube.com/embed/GKgpvd__Bxs</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>94</td>
+<td>Tokyo Station</td>
+<td>October 1, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/GrWXI6JJlpA">https://www.youtube.com/embed/GrWXI6JJlpA</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>95</td>
+<td>Miso</td>
+<td>October 20, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/w6DuDWzQ0jI">https://www.youtube.com/embed/w6DuDWzQ0jI</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>96</td>
+<td>Tarō Okamoto</td>
+<td>October 27, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/cT8SojrLBp0">https://www.youtube.com/embed/cT8SojrLBp0</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>97</td>
+<td>Onomatopoeia: The Charm of Mimetic Words</td>
+<td>November 3, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/T-IOrCzDYJk">https://www.youtube.com/embed/T-IOrCzDYJk</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>98</td>
+<td>Bamboo in Japan</td>
+<td>November 10, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/tZXOQnjrxaA">https://www.youtube.com/embed/tZXOQnjrxaA</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>99</td>
+<td>Sukiya Architecture</td>
+<td>November 17, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/dOA2Lx17KwM">https://www.youtube.com/embed/dOA2Lx17KwM</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>100</td>
+<td>Japanese Television Technology</td>
+<td>November 24, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Xn2CfKMrL-Y">https://www.youtube.com/embed/Xn2CfKMrL-Y</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>101</td>
+<td>Crows in Tokyo</td>
+<td>December 1, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/lWw_87A1t-o">https://www.youtube.com/embed/lWw_87A1t-o</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>102</td>
+<td>Natsume Sōseki</td>
+<td>December 8, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/cM62gDvZW6g">https://www.youtube.com/embed/cM62gDvZW6g</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>103</td>
+<td>Unagi</td>
+<td>December 22, 2007</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/fpjFQoTWNUY">https://www.youtube.com/embed/fpjFQoTWNUY</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>104</td>
+<td>Isamu Noguchi and Japan</td>
+<td>January 12, 2008</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/7Y05dzPTnq8">https://www.youtube.com/embed/7Y05dzPTnq8</a>&quot; %}</td>
+</tr>
+<tr>
+<td>Weekend Japanology</td>
+<td>2</td>
+<td>105</td>
+<td>Enka</td>
+<td>January 19, 2008</td>
+<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/2s5ZgIoEkfg">https://www.youtube.com/embed/2s5ZgIoEkfg</a>&quot; %}</td>
+</tr>
+</tbody>
+</table>
+<h2 id="begin-japanology">Begin Japanology</h2>
 <table>
 <thead>
 <tr>
@@ -2028,1414 +3456,21 @@
 <td>March 20, 2014</td>
 <td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/kbRniS7bj0M">https://www.youtube.com/embed/kbRniS7bj0M</a>&quot; %}</td>
 </tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>1</td>
-<td>Cherry Blossoms</td>
-<td>April 6, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/zboO2yaziho">https://www.youtube.com/embed/zboO2yaziho</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>2</td>
-<td>Sumo</td>
-<td>April 13, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/EcUiZxVKhWA">https://www.youtube.com/embed/EcUiZxVKhWA</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>3</td>
-<td>Japanese emotional expression</td>
-<td>April 20, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/CAYksO0tkt8">https://www.youtube.com/embed/CAYksO0tkt8</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>4</td>
-<td>The power of design</td>
-<td>April 27, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/kHyx5qjZEN4">https://www.youtube.com/embed/kHyx5qjZEN4</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>5</td>
-<td>Japanese Food: Nattō</td>
-<td>May 4, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Y8gXfVnYY2g">https://www.youtube.com/embed/Y8gXfVnYY2g</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>6</td>
-<td>Robot design</td>
-<td>May 11, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/SM5RJqEBdcM">https://www.youtube.com/embed/SM5RJqEBdcM</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>7</td>
-<td>Comedy</td>
-<td>May 18, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/af2TE3IxEh4">https://www.youtube.com/embed/af2TE3IxEh4</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>8</td>
-<td>Diet for a long life</td>
-<td>May 25, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/OzNcoENNsxQ">https://www.youtube.com/embed/OzNcoENNsxQ</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>9</td>
-<td>Contemporary dance</td>
-<td>June 1, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/MKWmmrvn-YI">https://www.youtube.com/embed/MKWmmrvn-YI</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>10</td>
-<td>Kimono</td>
-<td>June 8, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/rm0tpnQ2U-8">https://www.youtube.com/embed/rm0tpnQ2U-8</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>11</td>
-<td>&quot;Koto&quot; and its charm</td>
-<td>June 15, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/3K6KpkFXKdM">https://www.youtube.com/embed/3K6KpkFXKdM</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>12</td>
-<td>Traditional Japanese Houses</td>
-<td>June 22, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/uoFbMXZ02pI">https://www.youtube.com/embed/uoFbMXZ02pI</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>13</td>
-<td>Fireworks</td>
-<td>July 13, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/TO3-oX5Z73Q">https://www.youtube.com/embed/TO3-oX5Z73Q</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>14</td>
-<td>Japanese Paper</td>
-<td>July 20, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/DsCP-TKQY1g">https://www.youtube.com/embed/DsCP-TKQY1g</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>15</td>
-<td>&quot;Yacht Race Around the World&quot;</td>
-<td>July 27, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/CUYEjJ8pHGk">https://www.youtube.com/embed/CUYEjJ8pHGk</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>16</td>
-<td>Memories of the Atomic Bomb</td>
-<td>August 3, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/-07xiaBl2vk">https://www.youtube.com/embed/-07xiaBl2vk</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>17</td>
-<td>Wedding</td>
-<td>August 18, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/1jwZFFBupnU">https://www.youtube.com/embed/1jwZFFBupnU</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>18</td>
-<td>Summer Feature Special! Out and About</td>
-<td>August 24, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/_1KXIPOOxGo">https://www.youtube.com/embed/_1KXIPOOxGo</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>19</td>
-<td>Let&#39;s Drink Japanese Tea!</td>
-<td>September 7, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/xf20a9UmEMA">https://www.youtube.com/embed/xf20a9UmEMA</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>20</td>
-<td>Forefront of Universal Design</td>
-<td>September 14, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/77FuigGSn44">https://www.youtube.com/embed/77FuigGSn44</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>21</td>
-<td>Inheritance: Japanese Songs</td>
-<td>September 21, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/2s5ZgIoEkfg">https://www.youtube.com/embed/2s5ZgIoEkfg</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>22</td>
-<td>Changing Japanese Women</td>
-<td>September 28, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/MKoounOcfOg">https://www.youtube.com/embed/MKoounOcfOg</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>23</td>
-<td>Exploring Tokyo with a Special Guide</td>
-<td>October 6, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/dJxemGmbOwg">https://www.youtube.com/embed/dJxemGmbOwg</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>24</td>
-<td>Japan in Contemporary Art</td>
-<td>October 12, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/hnX_S2KZBiE">https://www.youtube.com/embed/hnX_S2KZBiE</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>25</td>
-<td>Haiku</td>
-<td>October 19, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/JAFWlSM7xjg">https://www.youtube.com/embed/JAFWlSM7xjg</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>26</td>
-<td>Invitation to Noh</td>
-<td>October 26, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/wmFMQFoo0cY">https://www.youtube.com/embed/wmFMQFoo0cY</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>27</td>
-<td>Calligraphy: A Soul That Interacts with Words</td>
-<td>November 2, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/6JOUof0F0ns">https://www.youtube.com/embed/6JOUof0F0ns</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>28</td>
-<td>Seasonal Food</td>
-<td>November 9, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/os-5mnbsvgA">https://www.youtube.com/embed/os-5mnbsvgA</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>28</td>
-<td>Challenging the World with Entertainment Movies</td>
-<td>November 16, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/wvQ8ZEI-6ug">https://www.youtube.com/embed/wvQ8ZEI-6ug</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>30</td>
-<td>Folk Songs Seen by a Jazzman</td>
-<td>November 23, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/K_O4BrwHWH4">https://www.youtube.com/embed/K_O4BrwHWH4</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>31</td>
-<td>Japanese Car Design</td>
-<td>November 30, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/spNp2D3fjEU">https://www.youtube.com/embed/spNp2D3fjEU</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>32</td>
-<td>Japanese People and Earthquakes</td>
-<td>December 7, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/_3X3AX7xVvM">https://www.youtube.com/embed/_3X3AX7xVvM</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>33</td>
-<td>Loss of Japan - Nippon Deciphered from Pop Culture</td>
-<td>December 14, 2003</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/BGmOQMjIq9g">https://www.youtube.com/embed/BGmOQMjIq9g</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>34</td>
-<td>The Ancient City</td>
-<td>January 11, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/dq5sLMVJeyg">https://www.youtube.com/embed/dq5sLMVJeyg</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>35</td>
-<td>Zen</td>
-<td>January 18, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/nCc8kSQqyXU">https://www.youtube.com/embed/nCc8kSQqyXU</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>36</td>
-<td>Shinkansen</td>
-<td>January 25, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/trDFx11PRHI">https://www.youtube.com/embed/trDFx11PRHI</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>37</td>
-<td>Makeup: Japan</td>
-<td>February 1, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/3jsRehM5GDY">https://www.youtube.com/embed/3jsRehM5GDY</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>38</td>
-<td>Japanese Animation</td>
-<td>February 8, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/0uUF8k857wU">https://www.youtube.com/embed/0uUF8k857wU</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>39</td>
-<td>Classical Japanese Music</td>
-<td>February 15, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/2s5ZgIoEkfg">https://www.youtube.com/embed/2s5ZgIoEkfg</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>40</td>
-<td>Yakimono</td>
-<td>February 22, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/gcyb1AYb984">https://www.youtube.com/embed/gcyb1AYb984</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>41</td>
-<td>Pearls</td>
-<td>February 29, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/ZiM1RMrckIc">https://www.youtube.com/embed/ZiM1RMrckIc</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>42</td>
-<td>Will Keitai Brighten the Future?</td>
-<td>March 7, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/CAYksO0tkt8">https://www.youtube.com/embed/CAYksO0tkt8</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>43</td>
-<td>The World of Japanese Painting Drawn by Senju</td>
-<td>March 14, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/-00nEbj1FFo">https://www.youtube.com/embed/-00nEbj1FFo</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>44</td>
-<td>Out &amp; About—Best Of Selection (Part 1)</td>
-<td>March 21, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/CAYksO0tkt8">https://www.youtube.com/embed/CAYksO0tkt8</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>45</td>
-<td>Out &amp; About—Best Of Selection (Part 2)</td>
-<td>March 28, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/mav1fS8H31g">https://www.youtube.com/embed/mav1fS8H31g</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>46</td>
-<td>Shakuhachi</td>
-<td>April 4, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/2BD8NoN4zI4">https://www.youtube.com/embed/2BD8NoN4zI4</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>47</td>
-<td>Contemporary Architecture</td>
-<td>April 11, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/dOA2Lx17KwM">https://www.youtube.com/embed/dOA2Lx17KwM</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>48</td>
-<td>Welcome to the World of Manga</td>
-<td>April 18, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/OnU8T_0hbi4">https://www.youtube.com/embed/OnU8T_0hbi4</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>49</td>
-<td>Japanese Pop Music</td>
-<td>April 26, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/QiZRZkfXCDI">https://www.youtube.com/embed/QiZRZkfXCDI</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>50</td>
-<td>Japanese Dogs</td>
-<td>May 2, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/0aNtSRN8u00">https://www.youtube.com/embed/0aNtSRN8u00</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>51</td>
-<td>Sushi Culture Magazine</td>
-<td>May 9, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/itnsF7cJjGM">https://www.youtube.com/embed/itnsF7cJjGM</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>52</td>
-<td>Rakugo</td>
-<td>May 17, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/DEXqmAJwTAk">https://www.youtube.com/embed/DEXqmAJwTAk</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>53</td>
-<td>Sounds of Japan</td>
-<td>May 23, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/QmEk97i5Gy0">https://www.youtube.com/embed/QmEk97i5Gy0</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>54</td>
-<td>Airplanes</td>
-<td>May 31, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/3ttAckYqP8M">https://www.youtube.com/embed/3ttAckYqP8M</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>55</td>
-<td>Learning from Edo: Recycling</td>
-<td>June 6, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/rzHeDleJBkw">https://www.youtube.com/embed/rzHeDleJBkw</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>56</td>
-<td>Japanese Garden</td>
-<td>June 13, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/mQxKgc5qDvE">https://www.youtube.com/embed/mQxKgc5qDvE</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>57</td>
-<td>Japanese Confectionery</td>
-<td>June 27, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/aTzvwbtkAyQ">https://www.youtube.com/embed/aTzvwbtkAyQ</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>58</td>
-<td>Shugendo and Faith</td>
-<td>July 4, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/wKo0tTc_3fE">https://www.youtube.com/embed/wKo0tTc_3fE</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>59</td>
-<td>Japanese Ships</td>
-<td>July 11, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/W8c7s9b4vM0">https://www.youtube.com/embed/W8c7s9b4vM0</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>60</td>
-<td>Fashion</td>
-<td>July 18, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/jZhcxuFkHGA">https://www.youtube.com/embed/jZhcxuFkHGA</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>61</td>
-<td>The Japanese Face</td>
-<td>July 25, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/1Jq9cws_zL0">https://www.youtube.com/embed/1Jq9cws_zL0</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>62</td>
-<td>Kagura</td>
-<td>August 1, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/dMpDLxSlkwc">https://www.youtube.com/embed/dMpDLxSlkwc</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>63</td>
-<td>Vending Machines</td>
-<td>August 8, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/jcmy8FaaHHM">https://www.youtube.com/embed/jcmy8FaaHHM</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>64</td>
-<td>Japanese Tableware</td>
-<td>September 5, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/s3vZV2qbgEk">https://www.youtube.com/embed/s3vZV2qbgEk</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>65</td>
-<td>80 Years of Life</td>
-<td>September 12, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/WFhsSW2A608">https://www.youtube.com/embed/WFhsSW2A608</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>66</td>
-<td>Japanese Jazz</td>
-<td>September 19, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/e-xY_lMQTQ8">https://www.youtube.com/embed/e-xY_lMQTQ8</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>67</td>
-<td>Tokyo Tourism - Yanaka Neighborhood</td>
-<td>October 3, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/-17hRPM1uQY">https://www.youtube.com/embed/-17hRPM1uQY</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>68</td>
-<td>Bushido</td>
-<td>October 10, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/mJuVUnouo6E">https://www.youtube.com/embed/mJuVUnouo6E</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>69</td>
-<td>Changing Akihabara</td>
-<td>October 17, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/RYbamAys0ps">https://www.youtube.com/embed/RYbamAys0ps</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>70</td>
-<td>Golf in Japan</td>
-<td>October 24, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/h6VSi3X1_o8">https://www.youtube.com/embed/h6VSi3X1_o8</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>1</td>
-<td>71</td>
-<td>Bonsai</td>
-<td>October 31, 2004</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/v1wPXZPSAFw">https://www.youtube.com/embed/v1wPXZPSAFw</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>1</td>
-<td>Japanese Rock</td>
-<td>May 7, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/NVB4SSNw0gY">https://www.youtube.com/embed/NVB4SSNw0gY</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>2</td>
-<td>Sho</td>
-<td>May 21, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/77FuigGSn44">https://www.youtube.com/embed/77FuigGSn44</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>3</td>
-<td>Japanese and Mathematics</td>
-<td>June 11, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/pln40k04Z0A">https://www.youtube.com/embed/pln40k04Z0A</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>4</td>
-<td>Ramen</td>
-<td>June 25, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/PLpgwmBSlho">https://www.youtube.com/embed/PLpgwmBSlho</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>5</td>
-<td>Sentō</td>
-<td>July 23, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/MlijOrSY374">https://www.youtube.com/embed/MlijOrSY374</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>6</td>
-<td>Origami</td>
-<td>July 30, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/_miBryqvrI8">https://www.youtube.com/embed/_miBryqvrI8</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>7</td>
-<td>Exploring Nagoya</td>
-<td>August 6, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/lAG0nRJ6N8A">https://www.youtube.com/embed/lAG0nRJ6N8A</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>8</td>
-<td>Robot</td>
-<td>September 17, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/SM5RJqEBdcM">https://www.youtube.com/embed/SM5RJqEBdcM</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>9</td>
-<td>Edokomon</td>
-<td>September 24, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/ivHVRsVOnu4">https://www.youtube.com/embed/ivHVRsVOnu4</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>10</td>
-<td>Young Entrepreneurs in Japan</td>
-<td>October 8, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/zxAxseNIRzw">https://www.youtube.com/embed/zxAxseNIRzw</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>11</td>
-<td>J-Pop</td>
-<td>October 15, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/QiZRZkfXCDI">https://www.youtube.com/embed/QiZRZkfXCDI</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>12</td>
-<td>Baby Boomers&#39; Consumer Activities</td>
-<td>October 29, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/PxWE_K2YCvI">https://www.youtube.com/embed/PxWE_K2YCvI</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>13</td>
-<td>Eco Cars</td>
-<td>November 12, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/ZtPZ-EyAyWY">https://www.youtube.com/embed/ZtPZ-EyAyWY</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>14</td>
-<td>Japanese Lights</td>
-<td>December 11, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/dVwrN1U3GFE">https://www.youtube.com/embed/dVwrN1U3GFE</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>15</td>
-<td>Japanese People and the Stars</td>
-<td>November 26, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/NDPVwmPCNZ0">https://www.youtube.com/embed/NDPVwmPCNZ0</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>16</td>
-<td>Yokohama Triennale 2005</td>
-<td>December 3, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/95igwkvlEtk">https://www.youtube.com/embed/95igwkvlEtk</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>17</td>
-<td>Mottainai!</td>
-<td>December 17, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/vzmTHA8on5w">https://www.youtube.com/embed/vzmTHA8on5w</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>18</td>
-<td>Soba</td>
-<td>December 24, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/screCVQbKKw">https://www.youtube.com/embed/screCVQbKKw</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>19</td>
-<td>Japanese People and Hot Springs</td>
-<td>December 31, 2005</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/OTLoC_dH_i8">https://www.youtube.com/embed/OTLoC_dH_i8</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>20</td>
-<td>J League</td>
-<td>January 7, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/eDgyNCHQ1Qk">https://www.youtube.com/embed/eDgyNCHQ1Qk</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>21</td>
-<td>Taiko - Japanese Drums</td>
-<td>January 14, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/X1m2zmaK8tw">https://www.youtube.com/embed/X1m2zmaK8tw</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>22</td>
-<td>Washi: Wrapping Technique and Spirit</td>
-<td>January 21, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/RZccAwh7buQ">https://www.youtube.com/embed/RZccAwh7buQ</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>23</td>
-<td>Japanese People and Monkeys</td>
-<td>January 28, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/I-0C6T3d8Sc">https://www.youtube.com/embed/I-0C6T3d8Sc</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>24</td>
-<td>Small Houses</td>
-<td>February 4, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/GugNoVWSdXY">https://www.youtube.com/embed/GugNoVWSdXY</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>25</td>
-<td>Soy Sauce</td>
-<td>February 11, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/jnSerDuCIa0">https://www.youtube.com/embed/jnSerDuCIa0</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>26</td>
-<td>Ukiyo-e</td>
-<td>February 18, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Ah6mUgAATvs">https://www.youtube.com/embed/Ah6mUgAATvs</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>27</td>
-<td>Japanese People and Fish</td>
-<td>February 25, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/jml4L4TVRwE">https://www.youtube.com/embed/jml4L4TVRwE</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>28</td>
-<td>Japan Fashion Week</td>
-<td>March 4, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/0o-xq5eg5Ck">https://www.youtube.com/embed/0o-xq5eg5Ck</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>29</td>
-<td>Cool Japan: Japanese Pop Culture</td>
-<td>March 11, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/CQfWP96bIV4">https://www.youtube.com/embed/CQfWP96bIV4</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>30</td>
-<td>Hay Fever</td>
-<td>March 18, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Bq57rG87LVU">https://www.youtube.com/embed/Bq57rG87LVU</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>31</td>
-<td>Out &amp; About — Best Of Selection (Part 1)</td>
-<td>March 25, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/CAYksO0tkt8">https://www.youtube.com/embed/CAYksO0tkt8</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>32</td>
-<td>Out &amp; About — Best OF Selection (Part 2)</td>
-<td>April 1, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/mav1fS8H31g">https://www.youtube.com/embed/mav1fS8H31g</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>33</td>
-<td>Sake</td>
-<td>April 17, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/QLkuLKAdGJQ">https://www.youtube.com/embed/QLkuLKAdGJQ</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>34</td>
-<td>Japanese Language</td>
-<td>April 24, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/rPI4qLWK5mY">https://www.youtube.com/embed/rPI4qLWK5mY</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>35</td>
-<td>Buyō</td>
-<td>May 1, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/UGzlKH2ZIaY">https://www.youtube.com/embed/UGzlKH2ZIaY</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>36</td>
-<td>Kyoto Cityscape Preservation</td>
-<td>May 15, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/5UEEz111uIM">https://www.youtube.com/embed/5UEEz111uIM</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>37</td>
-<td>Japanese Castles</td>
-<td>May 22, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/iPhdBe3fCsA">https://www.youtube.com/embed/iPhdBe3fCsA</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>38</td>
-<td>Japanese Garden Plants</td>
-<td>May 29, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/mQxKgc5qDvE">https://www.youtube.com/embed/mQxKgc5qDvE</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>39</td>
-<td>Mt. Fuji</td>
-<td>June 5, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/SUO7QhYUK5o">https://www.youtube.com/embed/SUO7QhYUK5o</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>40</td>
-<td>The World of Tsuguharu Foujita</td>
-<td>June 12, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/W4z3Z-mKHYg">https://www.youtube.com/embed/W4z3Z-mKHYg</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>41</td>
-<td>Buddha Statues</td>
-<td>June 19, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/dq5sLMVJeyg">https://www.youtube.com/embed/dq5sLMVJeyg</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>42</td>
-<td>Ikebana</td>
-<td>July 3, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/BFInml7rOPM">https://www.youtube.com/embed/BFInml7rOPM</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>43</td>
-<td>Japanese Travel Culture</td>
-<td>July 10, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Yiv5O5dca6g">https://www.youtube.com/embed/Yiv5O5dca6g</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>44</td>
-<td>Japan in Advertisements</td>
-<td>July 17, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/QbcJxslVFK8">https://www.youtube.com/embed/QbcJxslVFK8</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>45</td>
-<td>Home Appliances</td>
-<td>July 24, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Xn2CfKMrL-Y">https://www.youtube.com/embed/Xn2CfKMrL-Y</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>46</td>
-<td>Tatami</td>
-<td>July 31, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/e839VGOpl-A">https://www.youtube.com/embed/e839VGOpl-A</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>47</td>
-<td>Asakusa</td>
-<td>August 21, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Up5jKSreGrA">https://www.youtube.com/embed/Up5jKSreGrA</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>48</td>
-<td>Kamakura</td>
-<td>August 27, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/puAPXvRkE4s">https://www.youtube.com/embed/puAPXvRkE4s</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>49</td>
-<td>Udon</td>
-<td>August 28, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/IGavtBvMtVs">https://www.youtube.com/embed/IGavtBvMtVs</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>50</td>
-<td>Japanese Rivers</td>
-<td>September 4, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/_rwxsjzjDhs">https://www.youtube.com/embed/_rwxsjzjDhs</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>51</td>
-<td>Zazen Breathing Method</td>
-<td>September 11, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/LL2XUTeoUsM">https://www.youtube.com/embed/LL2XUTeoUsM</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>52</td>
-<td>Incense</td>
-<td>Culture September 25, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/PLZDsN35D_I">https://www.youtube.com/embed/PLZDsN35D_I</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>53</td>
-<td>Science Education in Japan</td>
-<td>October 2, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/cRYuOnfgq6Q">https://www.youtube.com/embed/cRYuOnfgq6Q</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>54</td>
-<td>Umeboshi</td>
-<td>October 9, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/tjv1vzmcWkU">https://www.youtube.com/embed/tjv1vzmcWkU</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>55</td>
-<td>Jōmon people</td>
-<td>October 16, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/1d2jmfid1ZM">https://www.youtube.com/embed/1d2jmfid1ZM</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>56</td>
-<td>Minakata Kumagusu</td>
-<td>October 22, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/DfCx3b2rImo">https://www.youtube.com/embed/DfCx3b2rImo</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>57</td>
-<td>Koizumi Yakumo and Japanese Kokoro</td>
-<td>October 23, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/e4WfTwsE2do">https://www.youtube.com/embed/e4WfTwsE2do</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>58</td>
-<td>Okami-san</td>
-<td>October 30, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/LydNSU5nJ_A">https://www.youtube.com/embed/LydNSU5nJ_A</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>59</td>
-<td>Small Theater Plays</td>
-<td>November 20, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Vhb-pQpYamA">https://www.youtube.com/embed/Vhb-pQpYamA</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>60</td>
-<td>Tempura</td>
-<td>November 27, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/vulmWj8rPbY">https://www.youtube.com/embed/vulmWj8rPbY</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>61</td>
-<td>Rice Cultivation</td>
-<td>December 18, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Qlz28wADHK8">https://www.youtube.com/embed/Qlz28wADHK8</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>62</td>
-<td>Itō Jakuchū and Edo Paintings</td>
-<td>December 25, 2006</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/rV7nXBZPo0s">https://www.youtube.com/embed/rV7nXBZPo0s</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>63</td>
-<td>Kyōgen</td>
-<td>January 8, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/RogQGMk0Wnk">https://www.youtube.com/embed/RogQGMk0Wnk</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>64</td>
-<td>Winter in Japan</td>
-<td>January 15, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/D-ht10QwPhA">https://www.youtube.com/embed/D-ht10QwPhA</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>65</td>
-<td>Nishikigoi - Koi Carp</td>
-<td>January 22, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/qG8rZHVIPdM">https://www.youtube.com/embed/qG8rZHVIPdM</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>66</td>
-<td>Convenience Stores</td>
-<td>January 29, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/9p8DVJToQEk">https://www.youtube.com/embed/9p8DVJToQEk</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>67</td>
-<td>Nabemono</td>
-<td>February 5, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/7F_-wEN7f6U">https://www.youtube.com/embed/7F_-wEN7f6U</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>68</td>
-<td>Snow in Japan</td>
-<td>February 12, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/uspglBjjGjI">https://www.youtube.com/embed/uspglBjjGjI</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>69</td>
-<td>Fishing</td>
-<td>February 19, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/r2YWNB2tkbQ">https://www.youtube.com/embed/r2YWNB2tkbQ</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>70</td>
-<td>Dashi</td>
-<td>February 26, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/YnvtqoHlXnI">https://www.youtube.com/embed/YnvtqoHlXnI</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>71</td>
-<td>Manzai</td>
-<td>March 5, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/jYHSoHejZQc">https://www.youtube.com/embed/jYHSoHejZQc</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>72</td>
-<td>Shamisen</td>
-<td>March 12, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/MfQwcimmfnY">https://www.youtube.com/embed/MfQwcimmfnY</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>73</td>
-<td>Japanese Wine</td>
-<td>March 19, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/ZL-fkF7s7LY">https://www.youtube.com/embed/ZL-fkF7s7LY</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>74</td>
-<td>Migratory Birds and Japan</td>
-<td>March 26, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Yiv5O5dca6g">https://www.youtube.com/embed/Yiv5O5dca6g</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>75</td>
-<td>Japanese Patterns</td>
-<td>April 2, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/IWBnt7CiHDo">https://www.youtube.com/embed/IWBnt7CiHDo</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>76</td>
-<td>Island Country Japan</td>
-<td>April 16, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/pKYHu8TtR0A">https://www.youtube.com/embed/pKYHu8TtR0A</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>77</td>
-<td>Laughter in Japan</td>
-<td>April 30, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/NlF5srREfbk">https://www.youtube.com/embed/NlF5srREfbk</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>78</td>
-<td>Kendo</td>
-<td>May 7, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/8Ea2ih7uNW4">https://www.youtube.com/embed/8Ea2ih7uNW4</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>79</td>
-<td>The Charm of Japanese Lacquerware</td>
-<td>May 14, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/8MFye9fiGp0">https://www.youtube.com/embed/8MFye9fiGp0</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>80</td>
-<td>The Turning Point for Japanese-style Employment</td>
-<td>May 21, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/YQ8KuYNDYm4">https://www.youtube.com/embed/YQ8KuYNDYm4</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>81</td>
-<td>Shōchū</td>
-<td>May 28, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/77FuigGSn44">https://www.youtube.com/embed/77FuigGSn44</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>82</td>
-<td>Shōgi</td>
-<td>June 4, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/c6GseJfUG4I">https://www.youtube.com/embed/c6GseJfUG4I</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>83</td>
-<td>Tanka</td>
-<td>June 11, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/iFIyCMCbLYA">https://www.youtube.com/embed/iFIyCMCbLYA</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>84</td>
-<td>Forest Regeneration</td>
-<td>June 18, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/3VZSJKbzyMc">https://www.youtube.com/embed/3VZSJKbzyMc</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>85</td>
-<td>Tofu</td>
-<td>June 25, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/sEfnMqqW7oc">https://www.youtube.com/embed/sEfnMqqW7oc</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>86</td>
-<td>Osaka Traditional Performing Art: Bunraku</td>
-<td>July 2, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/NFojZrytlgU">https://www.youtube.com/embed/NFojZrytlgU</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>87</td>
-<td>The Heart of Osaka/The Heart of Beauty</td>
-<td>June 16, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/CAYksO0tkt8">https://www.youtube.com/embed/CAYksO0tkt8</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>88</td>
-<td>Shikoku Pilgrimage</td>
-<td>July 23, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/r6dfNK3228A">https://www.youtube.com/embed/r6dfNK3228A</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>89</td>
-<td>High-tech Japanese Ancient Technology</td>
-<td>August 27, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/-YTM2-wuvZs">https://www.youtube.com/embed/-YTM2-wuvZs</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>90</td>
-<td>Ekiben</td>
-<td>September 3, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/U63lGAhzpdM">https://www.youtube.com/embed/U63lGAhzpdM</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>91</td>
-<td>Disaster Prevention: Wisdom to Live in an Earthquake-prone Country</td>
-<td>September 10, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Q2AfkYQe0RY">https://www.youtube.com/embed/Q2AfkYQe0RY</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>92</td>
-<td>Dolls</td>
-<td>September 17, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/fxanIDYyUVM">https://www.youtube.com/embed/fxanIDYyUVM</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>93</td>
-<td>Kimono Beauty and Technique</td>
-<td>September 24, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/GKgpvd__Bxs">https://www.youtube.com/embed/GKgpvd__Bxs</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>94</td>
-<td>Tokyo Station</td>
-<td>October 1, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/GrWXI6JJlpA">https://www.youtube.com/embed/GrWXI6JJlpA</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>95</td>
-<td>Miso</td>
-<td>October 20, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/w6DuDWzQ0jI">https://www.youtube.com/embed/w6DuDWzQ0jI</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>96</td>
-<td>Tarō Okamoto</td>
-<td>October 27, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/cT8SojrLBp0">https://www.youtube.com/embed/cT8SojrLBp0</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>97</td>
-<td>Onomatopoeia: The Charm of Mimetic Words</td>
-<td>November 3, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/T-IOrCzDYJk">https://www.youtube.com/embed/T-IOrCzDYJk</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>98</td>
-<td>Bamboo in Japan</td>
-<td>November 10, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/tZXOQnjrxaA">https://www.youtube.com/embed/tZXOQnjrxaA</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>99</td>
-<td>Sukiya Architecture</td>
-<td>November 17, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/dOA2Lx17KwM">https://www.youtube.com/embed/dOA2Lx17KwM</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>100</td>
-<td>Japanese Television Technology</td>
-<td>November 24, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/Xn2CfKMrL-Y">https://www.youtube.com/embed/Xn2CfKMrL-Y</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>101</td>
-<td>Crows in Tokyo</td>
-<td>December 1, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/lWw_87A1t-o">https://www.youtube.com/embed/lWw_87A1t-o</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>102</td>
-<td>Natsume Sōseki</td>
-<td>December 8, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/cM62gDvZW6g">https://www.youtube.com/embed/cM62gDvZW6g</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>103</td>
-<td>Unagi</td>
-<td>December 22, 2007</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/fpjFQoTWNUY">https://www.youtube.com/embed/fpjFQoTWNUY</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>104</td>
-<td>Isamu Noguchi and Japan</td>
-<td>January 12, 2008</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/7Y05dzPTnq8">https://www.youtube.com/embed/7Y05dzPTnq8</a>&quot; %}</td>
-</tr>
-<tr>
-<td>Weekend Japanology</td>
-<td>2</td>
-<td>105</td>
-<td>Enka</td>
-<td>January 19, 2008</td>
-<td>{% include youtube.html id=&quot;<a href="https://www.youtube.com/embed/2s5ZgIoEkfg">https://www.youtube.com/embed/2s5ZgIoEkfg</a>&quot; %}</td>
-</tr>
+</tbody>
+</table>
+<h2 id="japanology-plus">Japanology Plus</h2>
+<table>
+<thead>
+<tr>
+<th>series</th>
+<th>season</th>
+<th>Episode</th>
+<th>Name</th>
+<th>Air Date</th>
+<th>vid</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td>Japanology Plus</td>
 <td>1</td>
