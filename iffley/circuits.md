@@ -1,5 +1,5 @@
 
-| [Home](https://github.com/iacobo/iffley-wall-app/blob/main/README.md) | [All routes](topos.md) | [Tick Lists](ticklists.md) | [Circuits](circuits.md) |
+| [Home](home.md) | [All routes](topos.md) | [Tick Lists](ticklists.md) | [Circuits](circuits.md) |
 |---|---|---|---|
 
 
