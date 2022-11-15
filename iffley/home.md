@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/iacobo/iffley-wall-app/blob/main/.assets/img/icon.svg" width="100">
+<img src="https://github.com/iacobo/iffley-wall-app/blob/main/.assets/img/icon.svg?raw=true" width="100">
 
 # Digital Iffley Wall Guide
 
